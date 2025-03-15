@@ -1,0 +1,61 @@
+.container-nb{
+    height: 6rem;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid grey;
+}
+
+.logo{
+    /* border: 2px solid blue; */
+    height: 50%;
+    width: 10%;
+    margin-left: 20px;
+    overflow: hidden;
+    object-fit: fill;
+    cursor: pointer;
+}
+
+.categories{
+    /* border: 2px solid magenta; */
+    height: 90%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+
+}
+
+.user{
+    /* border: 2px solid maroon; */
+    height: 90%;
+    width: 10%;
+    margin-right: 4rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.search{
+    cursor: pointer;
+
+}
+
+.cart{
+    cursor: pointer;
+}
+
+.profile{
+    cursor: pointer;
+}
+
+.buttn{
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}

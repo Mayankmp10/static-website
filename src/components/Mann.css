@@ -1,0 +1,35 @@
+.mainn{
+    justify-content: space-around;
+    background-color: #222834;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    font-family: Arial, sans-serif;
+}
+.mail{
+    display: flex;
+    color: rgb(216, 203, 203);
+    margin-right: 10px;
+    cursor: pointer;
+    gap: 15px;
+    margin-left: 10%;
+    font-size: 80%;
+
+}
+.socialmedia{
+    color: rgb(216, 203, 203);
+    display: flex;
+    gap: 15px;
+    margin-right: 10%;
+    cursor: pointer;
+}
+.mailcontact{
+    margin-top: 2%;
+}
+.number{
+    margin-top: 2%;
+}
+
+
