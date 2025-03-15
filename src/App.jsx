@@ -3,7 +3,6 @@ import './App.css'
 import Navbar from './components/Navbar.jsx'
 import Mann from './components/Mann.jsx'
 import BootstrapCarousel from './components/Carousel.jsx'
-import CategoryMenu from './components/CategoryMenu.jsx'
 
 
 function App() {
@@ -11,10 +10,11 @@ function App() {
     <>
       <Mann />
       <Navbar />
-      <CategoryMenu />
       <BootstrapCarousel />
     </>
   )
 }
 
 export default App
+
+// https://templatemo.com/screenshots/full-template-559-zay-shop.jpg
